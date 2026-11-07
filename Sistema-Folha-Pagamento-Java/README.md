@@ -1,6 +1,6 @@
 # Sistema de Folha de Pagamento em Java
 
-Sistema acadêmico de folha de pagamento executado pelo terminal, desenvolvido utilizando Java e apenas bibliotecas da própria linguagem (Java Standard Library).
+Sistema que fiz (Guilherme Moreira de Jesus) em base de atividade acadêmica e consequentemente para o meu portifólio, desenvolvido um sistema de folha de pagamento, com funções de descontos, 
 
 ## Funcionalidades
 
